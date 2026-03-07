@@ -13,6 +13,7 @@ public class VolumeCone {
          float newHeight = (height/3);
         System.out.println(newHeight);
          float Volume =(pie * newRadius) * newHeight;
-        System.out.println(Volume);
+        System.out.println(Volume1);
     }
 }
+
