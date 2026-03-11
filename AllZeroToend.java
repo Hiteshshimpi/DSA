@@ -16,6 +16,7 @@ public class AllZeroToend {
             arr[cnt]=0;
             cnt++;
         }
-        System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr1));
     }
 }
+
