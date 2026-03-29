@@ -22,6 +22,7 @@ public class AreaCircle {
             float area =  (pie * (dia * dia ));
             area= area/4;
             System.out.println(area);
+            System.out.print("Enter the Radius of Circle: ");
         }
     }
 }
