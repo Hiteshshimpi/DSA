@@ -10,7 +10,7 @@ public class ArmstrongNumber {
             int td = a % 10;
             //System.out.println(td);
             int triple = td * td * td;
-            a = a / 10;
+            a = a / 10; // get quotient
             sum += triple;
         }
         System.out.println(sum);
