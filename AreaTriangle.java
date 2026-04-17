@@ -9,7 +9,7 @@ public class AreaTriangle {
         System.out.print("Enter the base :  ");
         float base=input.nextFloat();
         float area = (height * base)/2f;
-        System.out.println("The area of Triangle is  :  "+area);
+        System.out.println("The area of Triangle is  : "+area);
     }
 
 }
