@@ -3,7 +3,9 @@ import java.util.Arrays;
 public class AllZeroToend {
     public static void main(String[] args) {
         int arr[] ={1,3,0,0,4,0,9};
+         System.out.println(Arrays.toString(arr));
         moveZeros(arr);
+        
     }
     public static void moveZeros(int []arr){
         int cnt =0;
