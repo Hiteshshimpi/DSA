@@ -18,5 +18,6 @@ public class BuySellStocks {
         }
 
         System.out.println(maxprof);
+        System.out.println(maxprof);
 }
 }
