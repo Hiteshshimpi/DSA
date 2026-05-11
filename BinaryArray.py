@@ -11,4 +11,4 @@ while i<len(nums):
     if nums[i]==0:
         count=0
     i+=1
-print(maxCount)
+print("Max count is: "+maxCount)
