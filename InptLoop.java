@@ -11,6 +11,7 @@ public class InptLoop {
                  sum = input;
             }
         }
+        //System.out.print("The largest number us  : "+ sum);
         System.out.print("The largest number us  : "+ sum);
     }
 }
