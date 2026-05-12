@@ -46,6 +46,7 @@ public class MountainArray {
             decrease--;
         }
 
+      //  return increase ==decrease;
         return increase ==decrease;
     }
 }
