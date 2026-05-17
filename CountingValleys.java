@@ -16,6 +16,6 @@ public class CountingValleys {
                 level--;
             }
         }
-        System.out.println(valley_count);
+        System.out.println("Valley Count is: "+valley_count);
     }
 }
